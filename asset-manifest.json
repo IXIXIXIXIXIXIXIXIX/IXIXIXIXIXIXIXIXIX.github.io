@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/IXIXIXIXIXIXIXIXIX.github.io/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/IXIXIXIXIXIXIXIXIX.github.io/static/js/main.7dfe8904.chunk.js",
+    "main.js.map": "/IXIXIXIXIXIXIXIXIX.github.io/static/js/main.7dfe8904.chunk.js.map",
+    "runtime-main.js": "/IXIXIXIXIXIXIXIXIX.github.io/static/js/runtime-main.1ed7b1a6.js",
+    "runtime-main.js.map": "/IXIXIXIXIXIXIXIXIX.github.io/static/js/runtime-main.1ed7b1a6.js.map",
+    "static/js/2.b6a14be5.chunk.js": "/IXIXIXIXIXIXIXIXIX.github.io/static/js/2.b6a14be5.chunk.js",
+    "static/js/2.b6a14be5.chunk.js.map": "/IXIXIXIXIXIXIXIXIX.github.io/static/js/2.b6a14be5.chunk.js.map",
+    "static/js/3.ff9308d3.chunk.js": "/IXIXIXIXIXIXIXIXIX.github.io/static/js/3.ff9308d3.chunk.js",
+    "static/js/3.ff9308d3.chunk.js.map": "/IXIXIXIXIXIXIXIXIX.github.io/static/js/3.ff9308d3.chunk.js.map",
+    "index.html": "/IXIXIXIXIXIXIXIXIX.github.io/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/IXIXIXIXIXIXIXIXIX.github.io/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.b6a14be5.chunk.js.LICENSE.txt": "/IXIXIXIXIXIXIXIXIX.github.io/static/js/2.b6a14be5.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/IXIXIXIXIXIXIXIXIX.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ed7b1a6.js",
+    "static/js/2.b6a14be5.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.7dfe8904.chunk.js"
+  ]
+}
